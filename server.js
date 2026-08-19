@@ -31,9 +31,16 @@ function seedPersistentStorage() {
     }
     if (path.resolve(SEED_UPLOADS) !== path.resolve(UPLOADS_DIR)) {
       if (!fs.existsSync(UPLOADS_DIR)) fs.mkdirSync(UPLOADS_DIR, { recursive: true });
-      if (fs.readdirSync(UPLOADS_DIR).length === 0 && fs.existsSync(SEED_UPLOADS)) {
+      if (fs.existsSync(SEED_UPLOADS)) {
+        // Copy seed images missing in the volume, and refresh ones whose size
+        // changed (e.g. optimized versions on a new deploy).
         for (const f of fs.readdirSync(SEED_UPLOADS)) {
-          try { fs.copyFileSync(path.join(SEED_UPLOADS, f), path.join(UPLOADS_DIR, f)); } catch { /* ignore */ }
+          const src = path.join(SEED_UPLOADS, f), dest = path.join(UPLOADS_DIR, f);
+          try {
+            if (!fs.existsSync(dest) || fs.statSync(dest).size !== fs.statSync(src).size) {
+              fs.copyFileSync(src, dest);
+            }
+          } catch { /* ignore */ }
         }
       }
     }
@@ -611,7 +618,7 @@ function serveStatic(req, res, url) {
     recordView(req, pathname === '/index.html' ? '/' : pathname);
   }
   const headers = { 'Content-Type': type };
-  if (pathname.startsWith('/uploads/')) headers['Cache-Control'] = 'no-cache';
+  if (pathname.startsWith('/uploads/')) headers['Cache-Control'] = 'public, max-age=86400';
   res.writeHead(200, headers);
   fs.createReadStream(filePath).pipe(res);
 }
