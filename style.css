@@ -80,11 +80,11 @@ button { font-family: inherit; cursor: pointer; }
 }
 .sb-affil { color: var(--ink-3); font-size: 0.85rem; margin-top: 6px; }
 
-.sb-nav { margin-top: 36px; display: flex; flex-direction: column; gap: 2px; }
+.sb-nav { margin-top: 24px; display: flex; flex-direction: column; gap: 1px; }
 .sb-nav a {
   display: flex; align-items: center; gap: 12px;
-  padding: 10px 14px; border-radius: 12px;
-  color: var(--ink-2); font-weight: 500; font-size: 0.94rem;
+  padding: 7px 14px; border-radius: 10px;
+  color: var(--ink-2); font-weight: 500; font-size: 0.92rem;
   transition: background .2s, color .2s;
 }
 .sb-nav a .dot {

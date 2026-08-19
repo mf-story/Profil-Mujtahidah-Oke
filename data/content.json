@@ -39,7 +39,7 @@
     "tagline": "Dosen dan peneliti di bidang administrasi & kebijakan kesehatan. Berfokus pada tata kelola pelayanan kesehatan, sistem informasi kesehatan, dan kesehatan masyarakat — mengintegrasikan pengajaran, penelitian, dan pengabdian kepada masyarakat.",
     "ctaText": "Lihat Karya Ilmiah",
     "ctaHref": "#publikasi",
-    "ctaGhostText": "Hubungi Saya",
+    "ctaGhostText": "Mari Berkolaborasi",
     "ctaGhostHref": "#kontak",
     "portrait": "uploads/foto-1787151994433-ba2186.jpg",
     "bgPosition": "9% 31%",
@@ -429,7 +429,7 @@
   },
   "penelitian": {
     "title": "Penelitian",
-    "kicker": "Riset & Kajian",
+    "kicker": "",
     "items": [
       {
         "title": "Hubungan Indeks Massa Tubuh (IMT) terhadap Keluhan Musculoskeletal Disorders (MSDs) pada Operator SPBU di Kota Makassar",
@@ -489,7 +489,7 @@
   },
   "pengabdian": {
     "title": "Pengabdian kepada Masyarakat",
-    "kicker": "Tri Dharma",
+    "kicker": "",
     "items": [
       {
         "title": "Edukasi Kesehatan Berbasis DAGUSIBU untuk Meningkatkan Pemahaman Masyarakat dalam Pengelolaan Obat yang Baik dan Benar",
@@ -543,7 +543,7 @@
   },
   "hki": {
     "title": "HKI & Karya",
-    "kicker": "Hak Kekayaan Intelektual",
+    "kicker": "",
     "items": [
       {
         "title": "Etika Profesi dan Hukum Kesehatan di Era Digital: Tantangan dan Solusi",

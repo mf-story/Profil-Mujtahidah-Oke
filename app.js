@@ -14,10 +14,15 @@
   });
   if (scrim) scrim.addEventListener('click', closeMenu);
 
-  // Close menu when a nav link is tapped (delegated)
+  // Close menu when a nav link is tapped (delegated) + set it active immediately
   document.addEventListener('click', function (e) {
     var a = e.target.closest('a[data-nav]');
-    if (a) closeMenu();
+    if (!a) return;
+    var id = a.getAttribute('data-nav');
+    document.querySelectorAll('a[data-nav]').forEach(function (l) {
+      l.classList.toggle('active', l.getAttribute('data-nav') === id);
+    });
+    closeMenu();
   });
 
   window.addEventListener('content:rendered', init);
@@ -49,6 +54,8 @@
     var sections = links.map(function (l) { return document.getElementById(l.getAttribute('data-nav')); }).filter(Boolean);
     if (!('IntersectionObserver' in window) || !sections.length) return;
 
+    // A section is active when it crosses the viewport's horizontal center line.
+    // This is reliable for very tall sections (e.g. long publication lists).
     var spy = new IntersectionObserver(function (entries) {
       entries.forEach(function (en) {
         if (en.isIntersecting) {
@@ -56,7 +63,7 @@
           links.forEach(function (l) { l.classList.toggle('active', l.getAttribute('data-nav') === id); });
         }
       });
-    }, { threshold: 0.4, rootMargin: '-20% 0px -55% 0px' });
+    }, { threshold: 0, rootMargin: '-50% 0px -50% 0px' });
     sections.forEach(function (s) { spy.observe(s); });
   }
 
