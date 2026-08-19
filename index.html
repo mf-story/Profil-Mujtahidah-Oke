@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portofolio Dosen</title>
+  <meta name="description" content="Website profil dan portofolio dosen — riset, pengajaran, dan publikasi ilmiah." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="icon" href="uploads/avatar-placeholder.svg" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Lewati ke konten</a>
+
+  <!-- Mobile top bar -->
+  <header class="topbar" id="topbar">
+    <span class="topbar-name" id="topbarName">Dosen</span>
+    <button class="menu-toggle" id="menuToggle" aria-label="Buka menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <!-- Fixed sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-inner">
+      <div class="sb-profile" id="sbProfile"><!-- rendered --></div>
+      <nav class="sb-nav" id="sbNav" aria-label="Navigasi utama"><!-- rendered --></nav>
+      <div class="sb-socials" id="sbSocials"><!-- rendered --></div>
+      <p class="sb-copy" id="sbCopy"></p>
+    </div>
+  </aside>
+
+  <div class="sidebar-scrim" id="scrim" hidden></div>
+
+  <!-- Main content -->
+  <main class="main" id="main">
+    <section class="section hero" id="beranda"><div id="heroMount"></div></section>
+    <section class="section" id="tentang"><div id="aboutMount"></div></section>
+    <section class="section" id="keahlian"><div id="expertiseMount"></div></section>
+    <section class="section" id="pendidikan"><div id="educationMount"></div></section>
+    <section class="section" id="pengalaman"><div id="experienceMount"></div></section>
+    <section class="section" id="portofolio"><div id="portfolioMount"></div></section>
+    <section class="section" id="publikasi"><div id="publicationsMount"></div></section>
+    <section class="section" id="penelitian"><div id="penelitianMount"></div></section>
+    <section class="section" id="pengabdian"><div id="pengabdianMount"></div></section>
+    <section class="section" id="hki"><div id="hkiMount"></div></section>
+    <section class="section" id="tulisan"><div id="articlesMount"></div></section>
+    <section class="section" id="kontak"><div id="contactMount"></div></section>
+  </main>
+
+  <script src="content.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

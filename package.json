@@ -1,0 +1,13 @@
+{
+  "name": "portofolio-dosen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website profil & portofolio dosen — Node bawaan, tanpa dependensi.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

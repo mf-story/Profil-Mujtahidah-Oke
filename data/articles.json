@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a-contoh-1",
+    "createdAt": "2026-01-10T00:00:00.000Z",
+    "updatedAt": "2026-01-10T00:00:00.000Z",
+    "title": "Transformasi Kesehatan Digital dan Peran Rekam Medis Elektronik",
+    "slug": "transformasi-kesehatan-digital",
+    "category": "Opini",
+    "excerpt": "Bagaimana rekam medis elektronik dan interoperabilitas data mengubah wajah pelayanan kesehatan di Indonesia.",
+    "cover": "uploads/portfolio-1.svg",
+    "bodyHtml": "<p>Transformasi kesehatan digital menjadi salah satu agenda utama dalam pembangunan sistem kesehatan nasional. Salah satu pilarnya adalah penerapan <strong>Rekam Medis Elektronik (RME)</strong> yang terintegrasi antar fasilitas pelayanan kesehatan.</p><h2>Mengapa Interoperabilitas Penting?</h2><p>Interoperabilitas memungkinkan data pasien mengalir dengan aman antar fasilitas, sehingga pelayanan menjadi lebih cepat, akurat, dan berkelanjutan. Tanpa interoperabilitas, data kesehatan tetap terkotak-kotak.</p><blockquote>Data yang terhubung adalah fondasi pengambilan keputusan klinis dan kebijakan yang berbasis bukti.</blockquote><h3>Tantangan di Lapangan</h3><ul><li>Kesiapan infrastruktur dan sumber daya manusia</li><li>Standardisasi data dan keamanan informasi</li><li>Komitmen kebijakan dan pendanaan berkelanjutan</li></ul><p>Dengan kolaborasi lintas sektor, transformasi ini dapat menghadirkan pelayanan kesehatan yang lebih bermutu dan berpihak pada masyarakat.</p>",
+    "date": "2026-01-10",
+    "readMinutes": 2,
+    "published": true
+  }
+]

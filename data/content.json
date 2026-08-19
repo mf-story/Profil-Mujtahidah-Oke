@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "siteTitle": "Mujtahidah, S.KM., M.Kes — Dosen Administrasi Kesehatan",
+    "accent": "#d6577f"
+  },
+  "profile": {
+    "name": "Mujtahidah, S.KM., M.Kes",
+    "role": "Dosen Administrasi Kesehatan",
+    "affiliation": "Prodi S-1 Administrasi Kesehatan, FIKK, Universitas Negeri Makassar",
+    "location": "Makassar, Indonesia",
+    "avatar": "uploads/foto-1787151945917-902bc4.jpg",
+    "initials": "MJ"
+  },
+  "socials": [
+    {
+      "label": "Email",
+      "url": "mailto:mujtahidah@unm.ac.id",
+      "icon": "mail"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id",
+      "icon": "scholar"
+    },
+    {
+      "label": "SINTA",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6933027",
+      "icon": "sinta"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/msidaa/",
+      "icon": "globe"
+    }
+  ],
+  "hero": {
+    "greeting": "Assalamualaikum, saya",
+    "headline": "Mujtahidah",
+    "tagline": "Dosen dan peneliti di bidang administrasi & kebijakan kesehatan. Berfokus pada tata kelola pelayanan kesehatan, sistem informasi kesehatan, dan kesehatan masyarakat — mengintegrasikan pengajaran, penelitian, dan pengabdian kepada masyarakat.",
+    "ctaText": "Lihat Karya Ilmiah",
+    "ctaHref": "#publikasi",
+    "ctaGhostText": "Hubungi Saya",
+    "ctaGhostHref": "#kontak",
+    "portrait": "uploads/foto-1787151994433-ba2186.jpg",
+    "bgPosition": "9% 31%",
+    "stats": [
+      {
+        "value": "41",
+        "suffix": "",
+        "label": "Publikasi Ilmiah"
+      },
+      {
+        "value": "38",
+        "suffix": "",
+        "label": "Sitasi"
+      },
+      {
+        "value": "3",
+        "suffix": "",
+        "label": "h-index"
+      }
+    ]
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "kicker": "Profil",
+    "paragraphs": [
+      "Mujtahidah, S.KM., M.Kes adalah dosen pada Program Studi S-1 Administrasi Kesehatan, Fakultas Ilmu Keolahragaan dan Kesehatan, Universitas Negeri Makassar. Ia menekuni bidang administrasi dan kebijakan kesehatan dengan latar belakang keilmuan kesehatan masyarakat.",
+      "Aktivitasnya mencakup tiga pilar Tri Dharma Perguruan Tinggi — pengajaran, penelitian, dan pengabdian kepada masyarakat. Minat risetnya meliputi mutu pelayanan kesehatan, sistem informasi manajemen kesehatan (SIMKES), transformasi kesehatan digital, serta perencanaan dan penganggaran program kesehatan."
+    ]
+  },
+  "expertise": {
+    "title": "Bidang Keahlian",
+    "kicker": "Apa yang saya kerjakan",
+    "items": [
+      {
+        "title": "Pengajaran",
+        "desc": "Membimbing mahasiswa administrasi kesehatan dengan metode terkini."
+      },
+      {
+        "title": "Penelitian",
+        "desc": "Riset kebijakan, mutu layanan, dan sistem informasi kesehatan."
+      },
+      {
+        "title": "Pengabdian",
+        "desc": "Edukasi dan pemberdayaan kesehatan masyarakat di berbagai daerah."
+      },
+      {
+        "title": "Publikasi",
+        "desc": "Aktif menulis artikel ilmiah pada jurnal nasional & internasional."
+      }
+    ]
+  },
+  "education": {
+    "title": "Pendidikan",
+    "kicker": "Latar Belakang",
+    "items": [
+      {
+        "period": "2018 — 2019",
+        "degree": "Magister (S-2) Administrasi & Kebijakan Kesehatan",
+        "institution": "Fakultas Kesehatan Masyarakat, Universitas Hasanuddin",
+        "detail": "Mendalami administrasi dan kebijakan kesehatan pada jenjang magister."
+      },
+      {
+        "period": "2013 — 2017",
+        "degree": "Sarjana (S-1) Ilmu Kesehatan Masyarakat",
+        "institution": "Fakultas Kesehatan Masyarakat, Universitas Ahmad Dahlan",
+        "detail": "Menempuh pendidikan sarjana di bidang ilmu kesehatan masyarakat."
+      }
+    ]
+  },
+  "experience": {
+    "title": "Pengalaman",
+    "kicker": "Perjalanan Karier",
+    "items": [
+      {
+        "period": "2023 — Sekarang",
+        "role": "Dosen",
+        "org": "Prodi S-1 Administrasi Kesehatan — FIKK, Universitas Negeri Makassar",
+        "detail": "Mengajar, membimbing mahasiswa, serta aktif dalam penelitian dan pengabdian kepada masyarakat di bidang administrasi kesehatan."
+      },
+      {
+        "period": "2020 — 2021",
+        "role": "Duty Manager",
+        "org": "Rumah Sakit Umum Bahagia Makassar",
+        "detail": "Mengoordinasikan operasional harian rumah sakit dan memastikan kelancaran pelayanan bagi pasien."
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Proyek Pilihan",
+    "kicker": "Karya Terpilih",
+    "items": [
+      {
+        "title": "Digital Health",
+        "category": "Digital Health",
+        "year": "",
+        "desc": "Pemanfaatan teknologi digital dan sistem informasi kesehatan untuk meningkatkan mutu layanan.",
+        "image": "uploads/portfolio-1.svg",
+        "link": ""
+      },
+      {
+        "title": "Analisis Kebijakan Kesehatan",
+        "category": "Kebijakan",
+        "year": "",
+        "desc": "Analisis kebijakan dan program kesehatan masyarakat untuk mendukung pengambilan keputusan.",
+        "image": "uploads/portfolio-2.svg",
+        "link": ""
+      },
+      {
+        "title": "Promosi Kesehatan Masyarakat",
+        "category": "Pengabdian",
+        "year": "",
+        "desc": "Program edukasi dan promosi kesehatan sebagai bentuk pengabdian kepada masyarakat.",
+        "image": "uploads/portfolio-3.svg",
+        "link": ""
+      }
+    ]
+  },
+  "publications": {
+    "title": "Karya Ilmiah",
+    "kicker": "Publikasi, Penelitian & Pengabdian",
+    "trackTitle": "Rekam Jejak Publikasi",
+    "stats": [
+      {
+        "value": "41",
+        "label": "Publikasi"
+      },
+      {
+        "value": "38",
+        "label": "Sitasi"
+      },
+      {
+        "value": "3",
+        "label": "h-index"
+      }
+    ],
+    "scholarUrl": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id",
+    "sintaUrl": "https://sinta.kemdiktisaintek.go.id/authors/profile/6933027",
+    "scopusUrl": "",
+    "items": [
+      {
+        "title": "Evaluasi Peran Rekam Medis Elektronik dalam Meningkatkan Kualitas Layanan Kesehatan dan Kepuasan Pasien: Literatur Review",
+        "venue": "Graha Medika Public Health Journal 4 (1), 14-23, 2025 · 9 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "HUBUNGAN INDEKS MASSA TUBUH (IMT) TERHADAP KELUHAN MUSCULOSKELETAL DISORDERS (MSDs) PADA OPERATOR SPBU DI KOTA MAKASSAR",
+        "venue": "Jurnal Kesehatan Tambusai 6 (2), 6882-6889, 2025 · 6 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Analisis kualitas mutu pelayanan kesehatan dalam bidang pelayanan kesehatan (Literatur review)",
+        "venue": "Jurnal Riset Sains dan Kesehatan Indonesia 1 (4), 130-135, 2024 · 6 sitasi",
+        "year": "2024",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Implementasi UU Nomor 44 Tahun 2009 dan Implikasinya pada Sistem Manajemen Rumah Sakit: Review Sistematis",
+        "venue": "Jurnal Manajemen Informasi dan Administrasi Kesehatan 8 (2), 124-130, 2025 · 3 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Evaluasi Beban Kerja Perawat terhadap Kinerja dan Kualitas Pelayanan: Literatur Review",
+        "venue": "Jurnal Manajemen Informasi dan Administrasi Kesehatan 8 (2), 131-141, 2025 · 3 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Perencanaan SIMKES dalam Transformasi Pelayanan Kesehatan: Studi Kasus Dinas Kesehatan Kota Makassar",
+        "venue": "Jurnal Kolaboratif Sains 8 (11), 2025 · 2 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Analisis Manajemen Pengelolaan Logistik Obat di Instalasi Farmasi Rumah Sakit: Literature Review",
+        "venue": "Graha Medika Public Health Journal 4 (2), 88-97, 2025 · 2 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Literature Review: The Importance of Patients Satisfaction in Hospital Quality Management",
+        "venue": "International Journal of Science Technology and Health 2 (1), 21-26, 2024 · 2 sitasi",
+        "year": "2024",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Implementasi dan Evaluasi SIK Berbasis PRISM: Studi Kasus Puskesmas X Makassar",
+        "venue": "Wiraraja Medika: Jurnal Kesehatan 15 (2), 16-25, 2025 · 1 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Strategi Pembentukan Karakter Siswa Melalui Program Dokter Cilik Berbasis Kaderisasi Kesehatan",
+        "venue": "Science and Technology: Jurnal Pengabdian Masyarakat 2 (4), 333-342, 2025 · 1 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Mapping Infrastructure and Human Resource Gaps in the Implementation of Indonesia’s Digital Health Policy: A Literature Review",
+        "venue": "Asian Journal of Environmental Research 2 (3), 218-228, 2025 · 1 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "EDUKASI KESEHATAN BERBASIS DAGUSIBU UNTUK MENINGKATKAN PEMAHAMAN MASYARAKAT DALAM PENGELOLAAN OBAT YANG BAIK DAN BENAR",
+        "venue": "Jurnal Abdimas Indonesia 7 (2), 178-190, 2025 · 1 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Translating tuberculosis control policy into practice: Planning and budgeting challenges at a primary healthcare center",
+        "venue": "Svāsthya: Trends in General Medicine and Public Health 2 (4), e118-e118, 2025 · 1 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Peran Artificial Intelligence dan Interoperabilitas Data dalam Transformasi Layanan Kesehatan Digital di Indonesia: Literature Review",
+        "venue": "HORIZON: Indonesian Journal of Multidisciplinary 4 (3), 2710-2723, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Bridging the Health Literacy Gap among Coastal Communities: The Role of Health Information Access in Pangkep Regency, Indonesia",
+        "venue": "Asian Journal of Environmental Research 3 (2), 197-207, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Literasi Kesehatan Digital dalam Transformasi Digital Health di Indonesia: Literature Review",
+        "venue": "Jurnal Manajemen Informasi dan Adminstrasi Kesehatan (JMIAK) 9 (1), 200-210, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "OPTIMALISASI POSYANDU SEBAGAI UPAYA DETEKSI DINI DAN PENCEGAHAN STUNTING DI DESA KALEMANDALLE KECAMATAN BAJENG",
+        "venue": "Indonesian Journal of Health Community Service 1 (2), 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "EFEKTIVITAS INTERVENSI EDUKASI BERBASIS KOMUNITAS DALAM MENINGKATKAN LITERASI PENCEGAHAN PERNIKAHAN DINI: STUDI KUASI-EKSPERIMEN DI KABUPATEN PANGKEP",
+        "venue": "Jurnal Manajemen dan Administrasi Kesehatan 1 (1), 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "SEGMENTASI PASAR BERBASIS MEDIA SOSIAL DALAM PEMASARAN RUMAH SAKIT",
+        "venue": "Jurnal Manajemen dan Administrasi Kesehatan 1 (1), 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Analisis Penerimaan Sistem Omnicare Menggunakan Technology Acceptance Model (TAM) di Klinik Ratulangi Medical Centre",
+        "venue": "Afiasi: Jurnal Kesehatan Masyarakat 11 (1), 26-33, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Analisis Pengembangan Sistem Informasi Manajemen Kesehatan (SIMKES) Menggunakan Metode Software Development Life Cycle (SDLC) di Dinas Kesehatan Kota Makassar",
+        "venue": "Jurnal Kolaboratif Sains 9 (4), 2970-2981, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "The Effect of Graphic Health Warnings on Adolescent Smoking Cessation Intentions and Their Value As ‘Sipakainge’Among The Makassar-Bugis Tribe",
+        "venue": "Jurnal Kolaboratif Sains 9 (4), 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Analisis Dampak Intervensi Workshop Terhadap Kompetensi Manajerial Aktivis Organisasi Kemahasiswaan",
+        "venue": "Indo-MathEdu Intellectuals Journal 7 (2), 2710–2719, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Exploring the Influence of Demographic Factors on Occupational Stress in Inpatient Nursing",
+        "venue": "Journal of Scientific Insights 3 (2), 119-133, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Healthcare Marketing in the Digital Era: Performance Measurement and Experiential Value in a Maternal and Child Hospital in Indonesia",
+        "venue": "Journal of Scientific Insights 3 (1), 77-89, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Community education for solid waste management: Knowledge gains in rural area, Pangkep, Indonesia",
+        "venue": "Sociality: Journal of Public Health Service 5 (1), 81-91, 2026",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "PERMENKES NO. 24/2022 DAN INTEROPERABILITAS REKAM MEDIS ELEKTRONIK",
+        "venue": "KORSA; Jurnal Kajian Ilmu Keolahragaan dan Kesehatan 4 (2), 114-122, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Assessing the Link between Community Engagement and Environmental Health Program Outcomes in Rural Indonesia",
+        "venue": "Asian Journal of Environmental Research 2 (3), 264-272, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "EDUKASI PENCEGAHAN PERNIKAHAN DINI UNTUK REMAJA DAN ORANG TUA DI KAMPUNG SOLO, KABUPATEN PANGKEP",
+        "venue": "KORSAcs: Jurnal Pengabdian Kepada Masyarakat 4 (2), 82-89, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "The Impact of Fogging Activities on Dengue Hemorrhagic Fever (DHF) Prevention in Balocci District",
+        "venue": "Journal of Scientific Insights 2 (5), 590-594, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "EFEKTIVITAS ANGGARAN DALAM MENANGANI HIPERTENSI SEBAGAI MASALAH KESEHATAN : STUDI KASUS PUSKESMAS KASSI-KASSI",
+        "venue": "Jurnal Kesehatan Tambusai 6 (2), 8518-8525, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Pengaruh Disiplin Waktu terhadap Kinerja Pegawai pada Puskesmas Bontonompo II",
+        "venue": "Journal of Public Health (JPH) 3 (1), 10-16, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Analisis Program Pencegahan Penyakit Infeksi Saluran Pernapasan Akut (ISPA) Di UPT Puskesmas Somba Opu Kabupaten Gowa",
+        "venue": "Jurnal Keolahragaan JUARA 5 (6), 216-221, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Digital Marketing as a Strategy to Enhance Image and Patient Visits in Healthcare Facilities Authors",
+        "venue": "Journal of Scientific Insights 2 (3), 225-237, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "THE INFLUENCE OF RESPONSIVENESS ON PATIENT SATISFACTION IN COMMUNITY HEALTH CENTERS",
+        "venue": "KORSA; Jurnal Kajian Ilmu Keolahragaan dan Kesehatan 4 (1), 65-70, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "PENDEKATAN PROMOTIF MELALUI EDUKASI STUNTING KEPADA MASYARAKAT KAMPUNG SOLO KELURAHAN MAPPASAILE",
+        "venue": "Science and Technology: Jurnal Pengabdian Masyarakat 2 (2), 93-101, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Pendekatan Strategis dalam Perencanaan dan Penganggaran Program Pengendalian Asma: Studi di Puskesmas Sudiang",
+        "venue": "Jurnal Riset Sains Dan Kesehatan Indonesia 2 (2), 68-73, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Sosialisasi Perilaku Hidup Bersih dan Sehat (PHBS) kepada Masyarakat Daerah Pesisir di Kelurahan Mappasaile Kabupaten Pangkep",
+        "venue": "Pengabdian Kesehatan Pesisir dan Pertambangan 2 (1), 41-46, 2025",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Sosialisasi E-Modul Interaktif pada Mahasiswa Administrasi Kesehatan Fakultas Ilmu Keolahragaan dan Kesehatan",
+        "venue": "Science and Technology: Jurnal Pengabdian Masyarakat 1 (4), 380-384, 2024",
+        "year": "2024",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Dukungan Pemerintah Daerah terhadap Pencapaian Universal Health Coverage (UHC) di Kabupaten Luwu Timur",
+        "venue": "Jurnal Riset Sains dan Kesehatan Indonesia 1 (4), 141-149, 2024",
+        "year": "2024",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Etika Profesi dan Hukum Kesehatan di Era Digital: Tantangan dan Solusi",
+        "venue": "Science Tech Group",
+        "year": "",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      }
+    ]
+  },
+  "penelitian": {
+    "title": "Penelitian",
+    "kicker": "Riset & Kajian",
+    "items": [
+      {
+        "title": "Hubungan Indeks Massa Tubuh (IMT) terhadap Keluhan Musculoskeletal Disorders (MSDs) pada Operator SPBU di Kota Makassar",
+        "venue": "Jurnal Kesehatan Tambusai 6(2), 6882–6889 · 4 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Perencanaan SIMKES dalam Transformasi Pelayanan Kesehatan: Studi Kasus Dinas Kesehatan Kota Makassar",
+        "venue": "Jurnal Kolaboratif Sains 8(11) · 2 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Implementasi dan Evaluasi SIK Berbasis PRISM: Studi Kasus Puskesmas X Makassar",
+        "venue": "Wiraraja Medika: Jurnal Kesehatan 15(2), 16–25 · 1 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Analisis Penerimaan Sistem Omnicare Menggunakan Technology Acceptance Model (TAM) di Klinik Ratulangi Medical Centre",
+        "venue": "Afiasi: Jurnal Kesehatan Masyarakat 11(1), 26–33",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Efektivitas Anggaran dalam Menangani Hipertensi sebagai Masalah Kesehatan: Studi Kasus Puskesmas Kassi-Kassi",
+        "venue": "Jurnal Kesehatan Tambusai 6(2), 8518–8525",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Analisis Program Pencegahan Penyakit Infeksi Saluran Pernapasan Akut (ISPA) di UPT Puskesmas Somba Opu Kabupaten Gowa",
+        "venue": "Jurnal Keolahragaan JUARA 5(6), 216–221",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Pendekatan Strategis dalam Perencanaan dan Penganggaran Program Pengendalian Asma: Studi di Puskesmas Sudiang",
+        "venue": "Jurnal Riset Sains dan Kesehatan Indonesia 2(2), 68–73",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Dukungan Pemerintah Daerah terhadap Pencapaian Universal Health Coverage (UHC) di Kabupaten Luwu Timur",
+        "venue": "Jurnal Riset Sains dan Kesehatan Indonesia 1(4), 141–149",
+        "year": "2024",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Healthcare Marketing in the Digital Era: Performance Measurement and Experiential Value in a Maternal and Child Hospital in Indonesia",
+        "venue": "Journal of Scientific Insights 3(1), 77–89",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      }
+    ]
+  },
+  "pengabdian": {
+    "title": "Pengabdian kepada Masyarakat",
+    "kicker": "Tri Dharma",
+    "items": [
+      {
+        "title": "Edukasi Kesehatan Berbasis DAGUSIBU untuk Meningkatkan Pemahaman Masyarakat dalam Pengelolaan Obat yang Baik dan Benar",
+        "venue": "Jurnal Abdimas Indonesia 7(2), 178–190 · 2 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Strategi Pembentukan Karakter Siswa Melalui Program Dokter Cilik Berbasis Kaderisasi Kesehatan",
+        "venue": "Science and Technology: Jurnal Pengabdian Masyarakat 2(4), 333–342 · 1 sitasi",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Optimalisasi Posyandu sebagai Upaya Deteksi Dini dan Pencegahan Stunting di Desa Kalemandalle Kecamatan Bajeng",
+        "venue": "Indonesian Journal of Health Community Service 1(2)",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Community Education for Solid Waste Management: Knowledge Gains in Rural Area, Pangkep, Indonesia",
+        "venue": "Sociality: Journal of Public Health Service 5(1), 81–91",
+        "year": "2026",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Pendekatan Promotif Melalui Edukasi Stunting kepada Masyarakat Kampung Solo Kelurahan Mappasaile",
+        "venue": "Science and Technology: Jurnal Pengabdian Masyarakat 2(2), 93–101",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Edukasi Pencegahan Pernikahan Dini untuk Remaja dan Orang Tua di Kampung Solo, Kabupaten Pangkep",
+        "venue": "KORSAcs: Jurnal Pengabdian Kepada Masyarakat 4(2), 82–89",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Sosialisasi Perilaku Hidup Bersih dan Sehat (PHBS) kepada Masyarakat Daerah Pesisir di Kelurahan Mappasaile Kabupaten Pangkep",
+        "venue": "Pengabdian Kesehatan Pesisir dan Pertambangan 2(1), 41–46",
+        "year": "2025",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      },
+      {
+        "title": "Sosialisasi E-Modul Interaktif pada Mahasiswa Administrasi Kesehatan Fakultas Ilmu Keolahragaan dan Kesehatan",
+        "venue": "Science and Technology: Jurnal Pengabdian Masyarakat 1(4), 380–384",
+        "year": "2024",
+        "link": "https://scholar.google.co.id/citations?user=ssa_HR0AAAAJ&hl=id"
+      }
+    ]
+  },
+  "hki": {
+    "title": "HKI & Karya",
+    "kicker": "Hak Kekayaan Intelektual",
+    "items": [
+      {
+        "title": "Etika Profesi dan Hukum Kesehatan di Era Digital: Tantangan dan Solusi",
+        "venue": "Buku (kontributor) · Science Tech Group",
+        "year": "",
+        "link": ""
+      }
+    ]
+  },
+  "articlesSection": {
+    "kicker": "Artikel & Blog",
+    "title": "Tulisan Terbaru"
+  },
+  "contact": {
+    "title": "Mari Terhubung",
+    "kicker": "Kontak",
+    "subtitle": "Terbuka untuk kolaborasi penelitian, publikasi, dan kegiatan akademik.",
+    "email": "mujtahidah@unm.ac.id",
+    "phone": "",
+    "address": "Makassar, Sulawesi Selatan, Indonesia"
+  }
+}

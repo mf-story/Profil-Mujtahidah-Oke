@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tulisan</title>
+  <meta name="description" content="Kumpulan tulisan, opini, dan artikel." />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="page-writing">
+  <header class="writing-top">
+    <a class="back-home" href="index.html">← Beranda</a>
+    <div class="writing-brand" id="writingBrand">Tulisan</div>
+  </header>
+
+  <main class="writing-main">
+    <div class="writing-head">
+      <div class="kicker">Artikel &amp; Blog</div>
+      <h1 class="writing-title">Tulisan</h1>
+      <p class="writing-sub">Kumpulan artikel, opini, dan catatan akademik.</p>
+    </div>
+
+    <div class="writing-controls">
+      <input type="search" id="searchInput" class="writing-search" placeholder="Cari tulisan..." aria-label="Cari tulisan" />
+      <div class="writing-filters" id="filterBar"></div>
+    </div>
+
+    <div class="article-grid" id="listMount"></div>
+    <div class="empty-note" id="emptyNote" hidden>Belum ada tulisan.</div>
+  </main>
+
+  <script src="tulisan.js"></script>
+</body>
+</html>

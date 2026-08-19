@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin — Portofolio Dosen</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="admin.css" />
+</head>
+<body>
+  <!-- Login -->
+  <div class="login" id="login">
+    <form class="login-card" id="loginForm">
+      <div class="login-badge">Admin</div>
+      <h1>Panel Konten</h1>
+      <p>Masuk untuk mengelola isi website portofolio.</p>
+      <label>Kata sandi
+        <input type="password" id="password" autocomplete="current-password" required />
+      </label>
+      <button type="submit" class="btn-primary" id="loginBtn">Masuk</button>
+      <div class="login-error" id="loginError" hidden></div>
+    </form>
+  </div>
+
+  <!-- App -->
+  <div class="app" id="app" hidden>
+    <aside class="admin-side">
+      <div class="admin-brand">Mujtahidah</div>
+      <nav class="admin-nav" id="adminNav"></nav>
+      <div class="admin-side-foot">
+        <a href="index.html" target="_blank" class="mini-link">Lihat situs ↗</a>
+        <button class="mini-link danger" id="logoutBtn">Keluar</button>
+      </div>
+    </aside>
+
+    <main class="admin-main">
+      <header class="admin-top">
+        <div>
+          <h2 id="panelTitle">Konten</h2>
+          <p id="panelHint">Ubah teks lalu simpan.</p>
+        </div>
+        <div class="admin-actions">
+          <span class="save-state" id="saveState"></span>
+          <button class="btn-primary" id="saveBtn">Simpan Perubahan</button>
+        </div>
+      </header>
+      <div class="admin-body" id="panelBody"></div>
+    </main>
+  </div>
+
+  <div class="toast" id="toast" hidden></div>
+  <script src="admin.js"></script>
+</body>
+</html>
