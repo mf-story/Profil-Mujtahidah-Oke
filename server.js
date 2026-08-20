@@ -619,6 +619,7 @@ function serveStatic(req, res, url) {
   }
   const headers = { 'Content-Type': type };
   if (pathname.startsWith('/uploads/')) headers['Cache-Control'] = 'public, max-age=86400';
+  else headers['Cache-Control'] = 'no-cache';
   res.writeHead(200, headers);
   fs.createReadStream(filePath).pipe(res);
 }

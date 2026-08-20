@@ -80,6 +80,8 @@ button { font-family: inherit; cursor: pointer; }
   text-transform: uppercase; letter-spacing: 0.08em; margin-top: 8px;
 }
 .sb-affil { color: var(--ink-3); font-size: 0.85rem; margin-top: 6px; }
+.sb-loc { color: var(--ink-3); font-size: 0.8rem; margin-top: 8px; display: inline-flex; align-items: center; gap: 5px; }
+.sb-loc svg { width: 13px; height: 13px; color: var(--accent); }
 
 .sb-nav { margin-top: 24px; display: flex; flex-direction: column; gap: 1px; }
 .sb-nav a {
@@ -116,7 +118,9 @@ button { font-family: inherit; cursor: pointer; }
   padding: 14px 20px; background: rgba(255,255,255,.9);
   backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
 }
-.topbar-name { font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; }
+.topbar-name { font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.topbar-brand { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.topbar-avatar { width: 34px; height: 34px; border-radius: 50%; object-fit: cover; flex: none; box-shadow: 0 0 0 2px var(--accent); }
 .menu-toggle { background: none; border: 0; width: 30px; height: 24px; position: relative; }
 .menu-toggle span {
   position: absolute; left: 0; height: 2.5px; width: 100%; background: var(--ink);

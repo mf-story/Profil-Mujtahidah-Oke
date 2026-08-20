@@ -53,8 +53,11 @@
       avatar +
       '<h1 class="sb-name">' + esc(p.name) + '</h1>' +
       (p.role ? '<div class="sb-role">' + esc(p.role) + '</div>' : '') +
-      (p.affiliation ? '<div class="sb-affil">' + esc(p.affiliation) + '</div>' : '');
+      (p.affiliation ? '<div class="sb-affil">' + esc(p.affiliation) + '</div>' : '') +
+      (p.location ? '<div class="sb-loc">' + icon('pin') + esc(p.location) + '</div>' : '');
     var tb = el('topbarName'); if (tb) tb.textContent = p.name || 'Dosen';
+    var ta = document.getElementById('topbarAvatar');
+    if (ta) { if (p.avatar) { ta.src = p.avatar; ta.hidden = false; } else { ta.hidden = true; } }
 
     // Sidebar nav
     el('sbNav').innerHTML = NAV.map(function (n, i) {
